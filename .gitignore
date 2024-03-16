@@ -25,3 +25,9 @@ Manifest.toml
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Otter Log File
+.OTTER_LOG
+
+# Zip files
+*.zip
