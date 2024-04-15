@@ -1,0 +1,12 @@
+name: intro-ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - nb_conda_kernels
+  - ipykernel
+
